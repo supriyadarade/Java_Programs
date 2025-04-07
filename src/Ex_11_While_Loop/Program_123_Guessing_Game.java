@@ -29,7 +29,7 @@ public class Program_123_Guessing_Game {
                 System.out.println("Number is Too High, Try again");
             }
             else {
-                System.out.println("Correct! You guessed it.");
+                System.out.println("Correct! You guessed it in " + attempts + " attempts.");
                 break;
             }
         }
