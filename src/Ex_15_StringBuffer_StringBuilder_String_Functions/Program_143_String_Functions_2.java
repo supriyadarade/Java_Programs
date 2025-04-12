@@ -1,4 +1,4 @@
-package Ex_15_StringBuffer_Builder_String_Functions;
+package Ex_15_StringBuffer_StringBuilder_String_Functions;
 
 public class Program_143_String_Functions_2 {
 
