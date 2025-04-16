@@ -1,6 +1,6 @@
 package Tasks;
 
-public class Program_153_Find_Array_Min_Max_Interview_QnA {
+public class Interview_QnA_Find_Array_Min_Max {
 
     public static void main(String[] args) {
 

@@ -2,7 +2,7 @@ package Tasks;
 
 import java.util.Scanner;
 
-public class Program_165_2D_Left_Triangle {
+public class Interview_QnA_2D_Left_Triangle {
     public static void main(String[] args) {
         // How the pattern you want
         // n = 3

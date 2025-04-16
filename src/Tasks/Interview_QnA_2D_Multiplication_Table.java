@@ -2,7 +2,7 @@ package Tasks;
 
 import java.util.Scanner;
 
-public class Program_164_2D_Multiplication_Table {
+public class Interview_QnA_2D_Multiplication_Table {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

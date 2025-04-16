@@ -1,6 +1,6 @@
 package Tasks;
 
-public class Program_156_Sum_Of_Array {
+public class Interview_QnA_Sum_Of_Array {
     public static void main(String[] args) {
         int[] numbers = {12, 13, 14};
         int sum = 0;
