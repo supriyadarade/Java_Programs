@@ -1,4 +1,4 @@
-package Ex_19_Inheritance.Single_Inheritance;
+package Ex_19_Oops_Inheritance.Single_Inheritance;
 
 public class Common_To_All {
 

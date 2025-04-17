@@ -1,4 +1,4 @@
-package Ex_20_Polymorphism.Method_Overloading;
+package Ex_20_Oops_Polymorphism.Method_Overloading;
 
 public class Program_188_Real_Overloading  {
     public static void main(String[] args) {

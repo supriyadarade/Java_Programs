@@ -1,4 +1,4 @@
-package Ex_20_Polymorphism.Method_Overriding;
+package Ex_20_Oops_Polymorphism.Method_Overriding;
 
 public class Program_190_Real_Overriding {
     public static void main(String[] args) {

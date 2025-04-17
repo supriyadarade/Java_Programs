@@ -1,4 +1,4 @@
-package Ex_19_Inheritance.Multiple_Inheritance;
+package Ex_19_Oops_Inheritance.Multiple_Inheritance;
 
 public class Father_MP {
     void money(){

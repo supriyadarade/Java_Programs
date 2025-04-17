@@ -1,4 +1,4 @@
-package Ex_19_Inheritance;
+package Ex_19_Oops_Inheritance;
 
 public class Program_180_Inheritance {
     public static void main(String[] args) {

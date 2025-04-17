@@ -1,4 +1,4 @@
-package Ex_19_Inheritance.Hybrid_Inheritance;
+package Ex_19_Oops_Inheritance.Hybrid_Inheritance;
 
 public class Program_186_Hybrid {
 

@@ -1,4 +1,4 @@
-package Ex_19_Inheritance.Single_Inheritance;
+package Ex_19_Oops_Inheritance.Single_Inheritance;
 
 public class Program_181_Real_Example_Inheritance {
     public static void main(String[] args) {

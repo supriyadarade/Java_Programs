@@ -1,4 +1,4 @@
-package Ex_19_Inheritance.Single_Inheritance;
+package Ex_19_Oops_Inheritance.Single_Inheritance;
 
 public class Test_Case_2 extends Common_To_All {
     void runningTC2(){

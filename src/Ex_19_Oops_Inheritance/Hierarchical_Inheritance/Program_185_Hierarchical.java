@@ -1,4 +1,4 @@
-package Ex_19_Inheritance.Hierarchical_Inheritance;
+package Ex_19_Oops_Inheritance.Hierarchical_Inheritance;
 
 public class Program_185_Hierarchical {
 

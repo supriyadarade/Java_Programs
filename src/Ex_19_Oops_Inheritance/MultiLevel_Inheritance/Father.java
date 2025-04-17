@@ -1,4 +1,4 @@
-package Ex_19_Inheritance.MultiLevel_Inheritance;
+package Ex_19_Oops_Inheritance.MultiLevel_Inheritance;
 
 public class Father extends Grand_father{
     void f(){
